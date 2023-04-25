@@ -1,4 +1,4 @@
-# Predicting Student Performance based on Study Hours
+  # Predicting Student Performance based on Study Hours
 This is a simple linear regression project that aims to predict the percentage of a student based on the number of study hours per day.
 The dataset used for this project is small and consists of only two variables, which are the number of hours studied and the percentage obtained.
 
